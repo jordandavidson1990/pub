@@ -1,0 +1,13 @@
+How similar was your plan to the final program? Did you have to digress from your plan as the program developed?
+Does each of your classes follow the Single Responsibility principle? Or are any of your classes doing too much?
+Did you practice TDD?
+Are each of your methods tested? Did you find anything difficult to test?
+
+
+Our final program kept close to the plan we drew up during the MVP sections. We started to venture off as we went through the
+extensions. The class that didn't follow the Single Responsibility principle was the Pub class which had the majority of the functions by the end.
+Pub was perhaps doing too much.
+
+TDD was crucial as we could debug as we went. It enabled us to see where we were going wrong.
+
+All of the methods are tested and passed. 
